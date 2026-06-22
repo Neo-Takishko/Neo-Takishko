@@ -21,6 +21,6 @@ Kurucusu olduğum **Sheer Cat** ekibiyle birlikte oyun geliştirme süreçlerini
 ### İletişim & Topluluk
 Geliştirme pratikleri, oyun tasarımı üzerine fikir alışverişi yapmak veya genel bir sohbet etmek isterseniz bana aşağıdaki kanaldan ulaşabilirsiniz. Ayrıca Ankara'da bağımsız geliştiricileri bir araya getirecek etkinlikler üzerine de kafa yoruyorum.
 
-* **LinkedIn:** (https://linkedin.com/in/barkin-uzelturk)
+* **LinkedIn:** https://linkedin.com/in/barkin-uzelturk
   
 — Barkın  Üzeltürk
