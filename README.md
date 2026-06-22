@@ -19,8 +19,8 @@ Kurucusu olduğum **Sheer Cat** ekibiyle birlikte oyun geliştirme süreçlerini
 * **Hızlı Prototipleme:** Katıldığımız 10dan fazla Game Jam'de Sheer Cat olarak elde ettiğimiz deneyimler, kısıtlı sürede fikirleri çalışan sistemlere dönüştürme pratiğimi güçlendirdi.
 
 ### İletişim & Topluluk
-Geliştirme pratikleri, oyun tasarımı üzerine fikir alışverişi yapmak veya Ostim Teknik Üniversitesi'ndeki (OTÜ) akademik/mühendislik eğitimimle oyun dünyasının nasıl kesiştiğini konuşmak isterseniz bana aşağıdaki kanallardan ulaşabilirsiniz. Ayrıca Ankara'da bağımsız geliştiricileri bir araya getirecek etkinlikler üzerine de kafa yoruyorum.
+Geliştirme pratikleri, oyun tasarımı üzerine fikir alışverişi yapmak veya genel bir sohbet etmek isterseniz bana aşağıdaki kanaldan ulaşabilirsiniz. Ayrıca Ankara'da bağımsız geliştiricileri bir araya getirecek etkinlikler üzerine de kafa yoruyorum.
 
-* **LinkedIn:** https://www.linkedin.com/in/barkin-uzelturk/
+* **LinkedIn:** [linkedin.com/in/Barkın Üzeltürk](https://linkedin.com/in/barkin-uzelturk)
   
 — Barkın  Üzeltürk
