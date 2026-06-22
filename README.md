@@ -1,4 +1,4 @@
-# Tasarımla Kodun Kesişimi
+# Oyun Tasarımcısı ve Yazılımcısı
 
 Yaklaşık iki yıldır Unity ve C# ekosisteminde aktif olarak oyunlar ve sistemler geliştiriyorum. Kendimi her şeyden önce bir **Game Designer** olarak konumlandırıyorum; benim için yazılım, tasarladığım oyuncu deneyimini ve mekanikleri en doğru, en optimize şekilde hayata geçiren temel araçtır. 
 
